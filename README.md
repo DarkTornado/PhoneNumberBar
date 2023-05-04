@@ -5,7 +5,7 @@
 - 그냥 앱 프로젝트에다가 `PhoneNumberBar.java` 파일 적당히 복사 붙여넣기 해서 사용하시면 됩니다.
 
 ## 어떻게 생겼는가?
-- 이렇게 생겼어요.
+- 이렇게 생겼어요. [여기를 눌러서](https://www.youtube.com/watch?v=TcE-v8f5fhg) 작동 모습을 볼 수 있어요.
 ![image](./Screenshot.png)
 
 ## 일단 대충 적은 예제
